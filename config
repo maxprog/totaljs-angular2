@@ -1,0 +1,3 @@
+directory-public-virtual : /client/
+directory-public : /client/
+allow-compile-script : false
