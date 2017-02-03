@@ -2,10 +2,10 @@
 
 ## Installation
 
-1. Install the total.js in project directory
+1. Install the total.js in project directory or globally with option -g
   
   ```
-npm install total.js
+npm install -g total.js bower typescript 
   ```
 
 2. Install the dependencies in /client
